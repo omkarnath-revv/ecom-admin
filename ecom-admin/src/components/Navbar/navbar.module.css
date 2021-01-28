@@ -1,0 +1,34 @@
+* {
+  font-family: Roboto;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #f3f7fc;
+  max-width: 250px;
+  width: 100%;
+  height: 100%;
+}
+.navbarDiv {
+  margin: 23px 0px 0px 24px;
+}
+.navbarDiv > div {
+  margin-bottom: 40px;
+}
+.globalTemplatesCategoriesSubCategories {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.boldText {
+  font-weight: 600;
+}
+.logo {
+  width: 30px;
+  height: 24px;
+}
+.logoName {
+  font-size: 12px;
+  font-weight: 900;
+  color: #05136f;
+}
